@@ -2,7 +2,7 @@
 
 Welcome to here.
 
-Made some game.
+I made some game.
 
 It's very fun.
 
