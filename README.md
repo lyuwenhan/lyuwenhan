@@ -1,9 +1,6 @@
-## Hi
+## About me
 
-Welcome to here.
+Here is my [homepage](https://lyuwenhan.github.io/), which contains several things:
 
-I made some game.
-
-It's very fun.
-
-You can open my [fishing game](https://lyuwenhan.github.io/fishing-website), or you can see my [website](https://lyuwenhan.github.io/).
+- A [description](https://lyuwenhan.github.io/introduction/) of my [fishing game](https://lyuwenhan.github.io/fishing-website)
+- Some [related links](https://lyuwenhan.github.io/links/) about the game
