@@ -1,6 +1,7 @@
 ## About me
 
-Here is my [homepage](https://lyuwenhan.github.io/), which contains several things:
+Please ream my [homepage](https://lyuwenhan.github.io/).
 
-- A [description](https://lyuwenhan.github.io/introduction/) of my [fishing game](https://lyuwenhan.github.io/fishing-website)
-- Some [related links](https://lyuwenhan.github.io/links/) about the game
+You can see the [tools](https://lyuwenhan.github.io/tools/) I made.
+
+And my [extensions](https://lyuwenhan.github.io/extensions/)
