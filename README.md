@@ -1,7 +1,29 @@
 ## About me
 
-Please ream my [homepage](https://lyuwenhan.github.io/).
+[My Homepage](https://lyuwenhan.github.io/)
 
-You can see the [tools](https://lyuwenhan.github.io/tools/) I made.
+[Tools](https://lyuwenhan.github.io/tools)
 
-And my [extensions](https://lyuwenhan.github.io/extensions/).
+## Projects
+
+1. [lyuwenhan/minecraft-mod-updater](https://github.com/lyuwenhan/minecraft-mod-updater)
+2. [lyuwenhan/minecraft-java-edition-mods](https://github.com/lyuwenhan/minecraft-java-edition-mods)
+3. [lyuwenhan/minecraft-player-finder-bot](https://github.com/lyuwenhan/minecraft-player-finder-bot)
+4. [lyuwenhan/markdown-to-bbcode-converter](https://github.com/lyuwenhan/markdown-to-bbcode-converter)
+5. [lyuwenhan/fishing-game](https://github.com/lyuwenhan/fishing-game)
+6. [lyuwenhan/vscode-extensions](https://github.com/lyuwenhan/vscode-extensions)
+7. [lyuwenhan/chrome-extensions](https://github.com/lyuwenhan/chrome-extensions)
+8. [lyuwenhan/minecraft-bedrock-edition-mods](https://github.com/lyuwenhan/minecraft-bedrock-edition-mods)
+
+## Links
+
+1. [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/publishers/lyuwenhan)
+2. [Open Vsx Registry](https://open-vsx.org/namespace/lyuwenhan)
+3. [Modrinth](https://modrinth.com/user/lyuwenhan/mods)
+4. [Curseforge](https://www.curseforge.com/members/lyuwenhan/projects)
+5. [Planet Minecraft](https://www.planetminecraft.com/member/lyuwenhan/)
+6. [MCPEDL](https://mcpedl.com/user/lyuwenhan)
+7. [Npm - Markdown To Bbcode Converter](https://www.npmjs.com/package/markdown-to-bbcode-converter)
+8. [Chrome - My Ip Tool](https://chromewebstore.google.com/detail/my-ip-tool/ljjgbfofgkekflhnjpkghffchmjgcgjm)
+9. [Chrome - Mute Unless Page Focused](https://chromewebstore.google.com/detail/mute-unless-page-focused/hnlfehkbjepggomclfojdhbcemjnffll?authuser=0&hl=zh-CN)
+10. [Edge - My IP Tool](https://microsoftedge.microsoft.com/addons/detail/my-ip-tool/pdhdebnmhkhjdpbeeblcgjoiipdfmfmp)
