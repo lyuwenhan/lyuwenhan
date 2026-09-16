@@ -4,6 +4,8 @@
 
 [Tools](https://lyuwenhan.github.io/tools)
 
+[Mine Sweeper](https://lyuwenhan.github.io/games/minesweeper)
+
 ## Projects
 
 1. [lyuwenhan/lyuwenhan.github.io](https://github.com/lyuwenhan/lyuwenhan.github.io)
